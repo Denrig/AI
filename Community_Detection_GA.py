@@ -1,7 +1,3 @@
-
-"""
-"""
-
 """
  ----------------------------------------------
 |                                              |
@@ -183,10 +179,10 @@ class GA:
                 worst = off 
 
 
-
 """
 Computes the performance of the computed communities
 """
+
 def modularity(communities, param):
     noNodes = param['noNodes']
     mat = param['mat']

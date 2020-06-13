@@ -2,7 +2,7 @@
  ----------------------------------------------
 |                                              |
 |                                              |
-| COMUNITY DETECTION USING GA Algorithm        |
+|          COMUNITY DETECTION USING GA         |
 |                                              |
 |                                              |
  ----------------------------------------------

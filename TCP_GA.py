@@ -1,11 +1,8 @@
 """
-"""
-
-"""
  ----------------------------------------------
 |                                              |
 |                                              |
-| COMUNITY DETECTION USING GA Algorithm        |
+|        Solving TCP problem using GA          |
 |                                              |
 |                                              |
  ----------------------------------------------

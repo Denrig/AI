@@ -125,3 +125,4 @@ dmypy.json
 .pyre/
 /.vs
 /easy_01_tsp.txt
+/football.gml

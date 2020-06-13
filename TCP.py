@@ -1,7 +1,4 @@
 """
-"""
-
-"""
 Reads Adj Matrix from file
 Expects this kind of syntax
 First Line:N=Number of vertex
